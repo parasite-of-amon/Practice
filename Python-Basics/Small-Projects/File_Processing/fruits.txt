@@ -1,0 +1,19 @@
+Mango 
+Apple 
+Banana 
+Papaya 
+Guava 
+Kiwi 
+Pineapple 
+Strawberry 
+Custard_Apple 
+Pear 
+Peach 
+Plum 
+Cherry 
+Pomogranate 
+Chikoo 
+Grapes 
+Blue_Berry 
+
+df1 = pandas.DataFrame({'Mathematics':mathematics_list, 'Science':science_list, 'IT':IT_list},index=name_list)

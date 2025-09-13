@@ -1,0 +1,10 @@
+Introduction 
+ Name: Soham Deepak Satpute 
+ Proffesion: Student 
+ Age: 15 years
+ 
+Private Information 
+ Standard: 10th 
+ Intrests: Python, Chess, Mathematics 
+ Gender: Male 
+  
