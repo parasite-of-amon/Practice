@@ -1,37 +1,37 @@
--- create database if not exists employees;
--- use employees;
+create database if not exists employees;
+use employees;
 
--- create table if not exists employee_address(
--- 	employee_id int,
---     address varchar(50)
--- );
+create table if not exists employee_address(
+	employee_id int,
+    address varchar(50)
+);
 
--- alter table employee_address add primary key (employee_id);
--- ------------------------------------------------------------------------------------------------
--- create database if not exists Sale;
--- use Sale;
+alter table employee_address add primary key (employee_id);
+------------------------------------------------------------------------------------------------
+create database if not exists Sale;
+use Sale;
 
--- create table if not exists Product(
--- 	product_id int,
---     product_name varchar(50)
--- );
+create table if not exists Product(
+	product_id int,
+    product_name varchar(50)
+);
 
--- create table if not exists Purchase(
--- 	id int,
---     price int 
--- );
+create table if not exists Purchase(
+	id int,
+    price int 
+);
 
--- alter table Pruchase add primary key (id);
+alter table Pruchase add primary key (id);
 ------------------------------------------------------------------------------------
--- use employees;
--- insert into employee_address
--- values (1,'69 Somerset Avenue NJ','John');
+use employees;
+insert into employee_address
+values (1,'69 Somerset Avenue NJ','John');
 ------------------------------------------------------------------------------------
--- use Sale;
--- insert into product values (300,'Laptop');
--- alter table purchase drop column price;
--- alter table purchase add column price float;
--- insert into purchase values (1,1000.2);
+use Sale;
+insert into product values (300,'Laptop');
+alter table purchase drop column price;
+alter table purchase add column price float;
+insert into purchase values (1,1000.2);
 
 use employees;
 insert into employee_address 
