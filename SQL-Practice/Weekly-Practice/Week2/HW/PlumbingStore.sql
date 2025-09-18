@@ -42,19 +42,3 @@ select productname, unitprice, unitsinstock, unitsonorder
 	from product order by unitsinstock desc, unitsonorder desc;
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
