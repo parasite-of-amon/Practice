@@ -40,5 +40,21 @@ select firstname, lastname, city, state
 select * from product;
 select productname, unitprice, unitsinstock, unitsonorder 
 	from product order by unitsinstock desc, unitsonorder desc;
-  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
