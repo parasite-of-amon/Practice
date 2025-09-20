@@ -1,0 +1,4 @@
+crypto_engine.py
+  AES-256-GCM streaming file encryption/decryption with progress callbacks and cancel support.
+  magic(4) | version(1) | salt(16) | nonce(12) | ciphertext(...) | 
+  tag(16) magic=b'ME\x01\x00'  version=1
