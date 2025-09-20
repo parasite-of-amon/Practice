@@ -1,0 +1,13 @@
+CoachID,FirstName,LastName,PhoneNumber,Address,City,State,ZipCode,Status,TeamID
+1,Steve,Zion,9547539999,6754 Lakeview Dr.,Coral Sprigns,fl,33071,1,1
+2,Michael,Moldof,9547538888,100 Oak Lane,Coral Springs,fl,33071,2,
+3,Neil,Goodman,9547527777,3800 Westview Dr.,Coral Springs,fl,33071,2,1
+4,David,Stone,9547536666,550 Sample Road,Coral Springs,fl,33067,1,
+5,Frank,Barber,9547525555,4545 Westview Dr.,Coral Springs,fl,33071,2,
+6,Curtis,Kimble,9543444444,1101 Ramblewood Rd.,Coral Springs,FL,33071,1,7
+7,Caren,Zarinsky,9547533333,4532 Maplewood Dr.,Coral Springs,FL,33065,2,
+8,Derek,Anderson,9543442222,1345 University Dr.,Coral Springs,fl,33071,2,3
+9,Karen,Kinzer,9547521111,922 Sample Road,Coral Springs,FL,33067,1,6
+10,Alex,Fraser,9543440000,4566 Parkside Dr.,Coral Springs,FL,33071,1,4
+11,Lorenzo,Pearson,9547521234,2450 Maplewood Dr.,Coral Springs,FL,33065,1,3
+12,Shira,Citron,9547535678,500 Oak Lane,Coral Springs,FL,33071,2,6

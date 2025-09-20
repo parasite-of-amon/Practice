@@ -1,0 +1,26 @@
+PlayerID,FirstName,LastName,Address,City,State,ZipCode,PhoneNumber,BirthDate,Rating,TeamID
+1,Julie,Zion,6754 Lakeview Dr.,Coral Springs,fl,33071,9547530000,8/8/1986,B,1
+2,Britta,Zarinsky,4532 Maplewood Dr.,Coral Springs,FL,33065,9547531000,9/9/1987,B,7
+3,Jenna,Moldof,100 Oak Lane,Coral Springs,fl,33071,9547532000,12/26/1987,B,5
+4,Melissa,Kimble,1101 Ramblewood Rd.,Coral Springs,FL,33071,9543443000,5/31/1986,C,7
+5,Jessica,Anderson,1345 University Dr.,Coral Springs,fl,33071,9543444000,3/16/1987,A,3
+6,Leslie,Ericson,8922 Coral Ridge Dr.,Coral Springs,fl,33069,9547535000,12/21/1986,B,3
+7,Jessica,Goodman,3800 Westview Dr.,Coral Springs,fl,33071,9547526000,3/16/1986,A,1
+8,Marci,Barber,4545 Westview Dr.,Coral Springs,fl,33071,9547527000,5/15/1987,A,4
+9,Nancy,Dorman,900 Ramblewood Rd,Coral Springs,fl,33071,9543448000,12/12/1987,A,2
+10,Julie,Fraser,4566 Parkside Dr.,Coral Springs,FL,33071,9543449000,4/4/1986,C,4
+11,Kelly,James,800 Coral Springs Dr.,Coral Springs,fl,33169,9547531111,7/1/1985,A,3
+12,Sherrie,Green,6600 Main Street,Coral Springs,FL,33065,9547532222,8/22/1986,A,4
+13,Priscilla,Pearson,2450 Maplewood Dr.,Coral Springs,FL,33065,9547523333,2/3/1985,B,3
+14,Kerri,Stone,550 Sample Road,Coral Springs,fl,33067,9547534444,4/4/1986,C,5
+15,Toni,Moldof,522 Coral Springs Dr.,Coral Springs,fl,33069,9547525555,11/11/1985,B,5
+16,Shelly,Parker,1001 Coral Ridge Dr.,Coral Springs,fl,33069,9547536666,11/24/1987,C,2
+17,Amy,Kinzer,922 Sample Road,Coral Springs,FL,33067,9547527777,5/5/1987,C,6
+18,Mary,Citron,500 Oak Lane,Coral Springs,FL,33071,9547538888,3/16/1986,A,6
+19,Jessica,Grauer,1881 Vestal Road,Coral Springs,FL,33071,9547329999,3/16/1986,A,1
+20,Sonja,Freed,2210 Main Street,Coral Springs,FL,33065,9547531234,7/1/1987,B,6
+21,Lori,Pryor,2001 Parkside Dr.,Coral Springs,FL,33071,9543445678,6/18/1987,C,\N
+22,Lauren,Howard,1520 University Dr.,Coral Springs,FL,33071,9547529012,11/1/1986,A,\N
+23,Katie,Remmen,2200 Cedarwood Dr.,Coral Springs,FL,33067,9547533456,4/18/1985,A,\N
+24,Katherine,Akong,1705 Ramblewood Dr.,Coral Springs,FL,33071,9543447890,2/2/1986,C,\N
+25,Lilly,Taboas,1025 Coral Springs Dr.,Coral Springs,FL,33069,9547521234,5/22/1987,B,\N
