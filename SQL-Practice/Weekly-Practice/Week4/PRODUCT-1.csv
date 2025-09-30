@@ -1,0 +1,32 @@
+ProductID,ProductName,UnitsInStock,UnitsOnOrder,UnitPrice
+1,Ivory Clawfoot Tub,3,0,"1,899.00"
+2,Black Soaking Tub Built In,4,3,"1,999.00"
+3,Massage Jet Tub,2,0,"2,099.00"
+4,Deluxe Massage Jet Tub,3,1,"2,299.00"
+5,Infinity Master Tub,4,2,"2,599.00"
+6,Nickel Deluxe Kitchen Faucet,10,0,499.00
+7,Omnidirectional Shower,3,0,899.00
+8,Outdoor Soaking Tub,10,5,"1,599.00"
+9,Antique Style Brass Bath Faucet Set,4,0,399.00
+10,Deluxe Kitchen Faucet Set Black,10,5,799.00
+11,Deluxe Filtration System,10,0,"1,245.00"
+12,Spacesaver Toilet,10,0,249.00
+13,Massage Shower System,50,15,449.95
+14,Replacement Valve Units Type A,500,200,9.99
+15,Replacement Valve Units Type B,100,50,14.79
+16,Budget Bath Sink Set,15,3,179.95
+17,Utility Sink set,150,50,69.95
+18,Unclogger Tool Set,55,0,59.95
+19,Nickel Finish Shower Head,30,15,39.95
+20,Chrome Modern Kitchen Faucet,25,10,189.95
+21,Frost-Free Outdoor Faucet Set,20,0,65.95
+22,Complete Bathroom Kit,15,5,"1,395.00"
+23,Victorian Kitchen Faucet with Spray,10,5,249.95
+24,Deluxe Spraymaster System,5,0,569.95
+25,Waterfall Bath Faucet Set,10,0,95.95
+26,Flow Regulator Valve,150,50,75.95
+27,Budget Filter System,10,5,115.95
+28,Leak Fixer System,75,25,29.95
+29,Retro Nickel Bath/Shower Combo,50,5,129.95
+30,Flexible Spray Shower,25,10,59.95
+31,Circulator Pump Fitting,15,0,45.95
